@@ -1,0 +1,23 @@
+{
+  "name": "kanban-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToshinoriIzumi/kanban-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToshinoriIzumi/kanban-sample/issues"
+  },
+  "homepage": "https://github.com/ToshinoriIzumi/kanban-sample#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
